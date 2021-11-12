@@ -17,7 +17,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://mirato-profile-challenge.netlify.app/)
+- Live Site URL: [Live Site](https://mirato-profile-challenge.netlify.app/)
 
 ### Built with
 
